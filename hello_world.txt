@@ -4,4 +4,4 @@ git branching
 branching is a little complicated
 mmh?
 more iterations
-
+Now I understand branching :)
